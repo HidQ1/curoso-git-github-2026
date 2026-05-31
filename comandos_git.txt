@@ -1,11 +1,12 @@
-git init . 		 -> cria um repo git na pasta atual
-git status 		 -> mostra o status do trabalho
-git add nome_arquivo 	 -> adiciona arquivo para ser commitado 
-git commit -m "Mensagem" -> faz commit do que estava para ser comitado
-git log 		 -> mostra todo o histórico de commit
-git diff <nome do arquivo> -> mostra o que foi modificado desde o ultimo commit
-git checkout 'nome da branch' -> altera para a branch que já existe
-git checkout -b 'nome da branch' -> cria uma branch nova e altera para ela
+git init . 	-> Cria um repo git na pasta atual
+git status 	-> Costra o status do trabalho
+git add nome_arquivo -> Adiciona arquivo para ser commitado 
+git commit -m "Mensagem" -> Faz commit do que estava para ser comitado
+git log -> Mostra todo o histórico de commit
+git diff <nome do arquivo> -> Mostra o que foi modificado desde o ultimo commit
+git checkout 'nome da branch' -> Altera para a branch que já existe
+git checkout -b 'nome da branch' -> Cria uma branch nova e altera para ela
+
 ## FLUXO DE TRABALHO
 
 1. criar o diretório do projeto
