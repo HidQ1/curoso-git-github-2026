@@ -1,3 +1,2 @@
 novos comandos
 teste
-teste
