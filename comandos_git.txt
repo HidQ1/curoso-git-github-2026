@@ -1,8 +1,8 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho
-git add nome_arquivo -> adiciona arquivo para ser commitado 
+git init . 		 -> cria um repo git na pasta atual
+git status 		 -> mostra o status do trabalho
+git add nome_arquivo 	 -> adiciona arquivo para ser commitado 
 git commit -m "Mensagem" -> faz commit do que estava para ser comitado
-git log -> mostra todo o histórico de commit
+git log 		 -> mostra todo o histórico de commit
 git diff <nome do arquivo> -> mostra o que foi modificado desde o ultimo commit
 git checkout 'nome da branch' -> altera para a branch que já existe
 git checkout -b 'nome da branch' -> cria uma branch nova e altera para ela
