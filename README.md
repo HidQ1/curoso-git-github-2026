@@ -17,3 +17,15 @@ Além disso, vamos trabalhar com o GitFlow ao final do curso e VS Code.
 07. git commit -m "minha mensagem"
 08. git checkout main
 09. git merge nova-branch
+
+## Fluxo de trabalho com Git Remote
+
+01. git checkout -b <nova-branch>
+02. cria ou atualiza arquivos
+03. git add .
+04. git commit -m "comentario de mudança"
+05. git push origin <nova-branch>
+06. abrir pull request no GitHub para main
+07. excluir <nova-branch> origin
+08. git checkout <nova-branch>
+09. git branch -D <nova-branch>
